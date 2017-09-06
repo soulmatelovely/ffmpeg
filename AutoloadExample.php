@@ -1,6 +1,6 @@
 <?php
 
-namespace rbt\ffmpeg;
+namespace rbtphp\ffmpeg;
 
 /**
  * This is just an example.

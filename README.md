@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist rbt/yii2-ffmpeg "*"
+php composer.phar require --prefer-dist rbtphp/yii2-ffmpeg "*"
 ```
 
 or add
 
 ```
-"rbt/yii2-ffmpeg": "*"
+"rbtphp/yii2-ffmpeg": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \rbt\ffmpeg\AutoloadExample::widget(); ?>```
+<?= \rbtphp\ffmpeg\AutoloadExample::widget(); ?>```
