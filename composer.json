@@ -17,5 +17,11 @@
         "psr-4": {
             "rbtphp\\ffmpeg\\": ""
         }
+    },
+    "repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/AbdulRaheem123/test2.git"
     }
+]
 }
