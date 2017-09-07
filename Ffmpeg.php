@@ -63,10 +63,9 @@ class Ffmpeg
 					}
 				}
 			}
+			return true;
 		} else {
-
 			echo 'Please check parameters you provided. Try again';exit;
-
 		}
 		
     }
