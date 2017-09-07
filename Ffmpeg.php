@@ -64,11 +64,9 @@ class Ffmpeg
 				}
 			}
 		} else {
-<<<<<<< HEAD
+
 			echo 'Please check parameters you provided. Try again';exit;
-=======
-			echo 'Please check parameters you provided.';exit;
->>>>>>> 8bd07d942aa389c6f9f29886ba0936d7f8e37705
+
 		}
 		
     }
