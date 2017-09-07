@@ -1,0 +1,27 @@
+{
+    "name": "rbtphp/yii2-ffmpeg",
+    "description": "convert media from one format to other",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","ffmpeg"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Raheem",
+            "email": "rj@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rbtphp\\ffmpeg\\": ""
+        }
+    },
+    "repositories":[
+    {
+        "type": "git",
+        "url": "https://github.com/AbdulRaheem123/test2.git"
+    }
+]
+}
