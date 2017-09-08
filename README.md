@@ -23,6 +23,7 @@ to the require section of your `composer.json` file.
 
 Configuration
 ---------------
+Install ffmpeg in your system if not installed.
 To use this extension, you have to configure the Connection class in your application configuration:
 
 return [
